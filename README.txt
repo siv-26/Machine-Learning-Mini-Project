@@ -5,3 +5,5 @@ Contents :
 	3) SVM1.ipynb - This is the python script that has the Machine Learning Module, also placed on the server
 	4) newdata.csv - This is the dataset on which the ML Model was trained on
 	5) Final Report.doc - This is the soft copy of the report submitted
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/43073565/91891737-64216f00-ec46-11ea-9dfb-cc8fc7587b91.gif)
